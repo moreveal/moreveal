@@ -27,7 +27,7 @@ Whether it's obfuscated malware, a network protocol nobody documented, or some s
 - **Core stack:** `C++`, `C`, `Python`  
 - **Also touched:** `JS`, `Lua`, `Pawn`, `C#`, `Java`, `PHP`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreveal&layout=compact&theme=github_dark&hide=html,css,gdb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreveal&layout=compact&theme=github_dark&hide=html,css,gdb,pawn)
 
 
 ---
