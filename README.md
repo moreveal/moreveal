@@ -52,4 +52,4 @@ That's what I enjoy. That's what I do.
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moreveal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=moreveal)](https://github.com/ryo-ma/github-profile-trophy)
