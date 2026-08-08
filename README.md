@@ -27,8 +27,10 @@ Whether it's obfuscated malware, a network protocol nobody documented, or some s
 - **Core stack:** `C++`, `C`, `Python`  
 - **Also touched:** `JS`, `Lua`, `Pawn`, `C#`, `Java`, `PHP`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreveal&layout=compact&theme=github_dark&hide=html,css,gdb,pawn)
-
+<img
+  src="https://github-readme-stats-gold-iota-66.vercel.app/api/top-langs/?username=moreveal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
+  alt="Top Languages"
+/>
 
 ---
 
@@ -52,4 +54,11 @@ That's what I enjoy. That's what I do.
 
 ---
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=moreveal)](https://github.com/moreveal/github-profile-trophy)
+## 📦 Repository Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-gold-iota-66.vercel.app/api/repos?theme=tokyonight&hide_border=true"
+    alt="Repository Overview"
+  />
+</p>
