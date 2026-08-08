@@ -54,8 +54,6 @@ That's what I enjoy. That's what I do.
 
 ---
 
-## 📦 Repository Overview
-
 <p align="center">
   <img
     src="https://github-readme-stats-gold-iota-66.vercel.app/api/repos?theme=tokyonight&hide_border=true"
