@@ -54,9 +54,7 @@ That's what I enjoy. That's what I do.
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-gold-iota-66.vercel.app/api/repos?theme=tokyonight&hide_border=true"
-    alt="Repository Overview"
-  />
-</p>
+<img
+  src="https://github-readme-stats-gold-iota-66.vercel.app/api/repos?theme=tokyonight&hide_border=true"
+  alt="Repository Overview"
+/>
