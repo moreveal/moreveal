@@ -2,59 +2,135 @@
 
 <img src="/images/banner.png" alt="Banner" width="1024">
 
-I'm a reverse engineer and low-level software developer with a focus on Windows internals, malware analysis, and tooling.  
-I like taking things apart — binaries, protocols, algorithms — and building tools that make that process faster and smarter.
+I'm a software engineer working mostly with **Python and C++**.
 
-Whether it's obfuscated malware, a network protocol nobody documented, or some shady packed executable — I dive deep.
+I build backend systems, automation, developer tools, integrations, and other software that usually involves a bit more than just wiring a few APIs together.
 
----
+A lot of my background is in **reverse engineering and security research**, so I'm pretty comfortable working with things that are undocumented, partially broken, intentionally obscure, or simply weren't designed to be integrated with.
 
-## 🔍 What I do
-
-- 🧠 **Reverse engineering** — x86/x64, custom loaders, obfuscated binaries  
-- 🐛 **Malware analysis** — API hashing, anti-debug tricks, unpacking, decryptors  
-- 🔓 **Exploit & tooling dev** — shellcode, memory injection, WinAPI hash resolvers  
-- 🎲 **PRNG & algorithm reversing** — LCG, MT, XOR-mutation-based, encryption logic  
-- 🎮 **Game hacking** — client-side logic, anti-cheat bypass, automation  
-- 🤖 **Android automation** — ADB + CV + shell scripting, anti-fraud evasion  
-- 🌐 **Protocol reverse engineering** — WebSocket, RPC, custom binary formats  
-- ⚙️ **Static & dynamic analysis automation** — for scale and repeatability
+Basically: if there's an API — great.
+If there isn't one, we'll figure out what the software is doing anyway.
 
 ---
 
-## 🧪 Languages I use
+## 🛠️ What I do
 
-- **Core stack:** `C++`, `C`, `Python`  
-- **Also touched:** `JS`, `Lua`, `Pawn`, `C#`, `Java`, `PHP`
+### ⚙️ Software Development
+
+* Backend services and APIs
+* Automation and data processing
+* Networking and async systems
+* Web scraping and external integrations
+* Developer tools and internal tooling
+* PostgreSQL / Redis
+* Systems programming when Python isn't the right hammer
+
+### 🧠 Reverse Engineering
+
+* Windows x86 / x64
+* Static and dynamic analysis
+* IDA
+* Android apps, Frida and ADB
+* Network protocol research
+* Undocumented APIs and binary formats
+* Malware analysis
+* Runtime instrumentation and hooking
+
+RE isn't really separate from development for me.
+
+Quite often it just becomes one part of building the actual thing: understand an undocumented protocol, reproduce it, wrap it into a sane interface, and move on.
+
+---
+
+## 💻 Languages & stack
+
+**Main stuff I actually use:**
+
+`Python` · `C++` · `C`
+
+**Also worked with:**
+
+`JavaScript` · `Node.js` · `Java` · `C#` · `PHP` · `Lua` · `Pawn`
+
+**Tools / tech that tend to appear around my projects:**
+
+`PostgreSQL` · `Redis` · `Playwright` · `Frida` · `IDA` · `Wireshark` · `Docker` · `CMake`
 
 <img
-  src="https://github-readme-stats-gold-iota-66.vercel.app/api/top-langs/?username=moreveal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
-  alt="Top Languages"
+src="https://github-readme-stats-gold-iota-66.vercel.app/api/top-langs/?username=moreveal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
+alt="Top Languages"
 />
 
 ---
 
-## 📂 Reverse writeups & experiments
+## 🔬 Reverse engineering notes
 
-Curious about some of the stuff I've reversed?  
-Check out my public notes and writeups here:
+Some of my public RE research, notes and experiments live here:
 
-🔗 [Reverse Engineering](https://github.com/moreveal/reverse-writeups)
+### → [reverse-writeups](https://github.com/moreveal/reverse-writeups)
 
-> ⚠️ Most of my RE-related work is private (malware tooling, automation, exploit dev, etc).  
-> What's public here is a small part of what I've done.
+That repository is mostly a collection of things I found interesting enough to document publicly.
+
+A lot of the more serious work I've done — commercial automation, malware analysis, private protocol research, application internals, etc. — obviously can't be dumped on GitHub.
+
+So consider it the public part, not the full list.
+
+---
+
+## 🧩 The kind of problems I like
+
+I tend to enjoy projects where there's an annoying **“how the hell does this actually work?”** somewhere in the middle.
+
+Maybe it's a backend with a weird external integration.
+
+Maybe the API isn't documented.
+
+Maybe the mobile app is the documentation.
+
+Maybe there's a proprietary binary protocol involved.
+
+Maybe some ancient C++ software has decided that debugging it should become today's main activity.
+
+Those are usually the fun ones.
+
+I like going from:
+
+**“we don't know how this works”**
+
+to
+
+**“here's the implementation.”**
 
 ---
 
-## 💬 Why reverse engineering?
+## 📦 What you'll find here
 
-It's the closest thing to solving a puzzle where the pieces fight back.  
-It forces you to understand *exactly* how something works — not how it looks on the surface.  
-That's what I enjoy. That's what I do.
+My GitHub is a mix of:
+
+* production-ish software and utilities
+* backend / automation projects
+* networking experiments
+* C / C++ stuff
+* reverse engineering research
+* old projects that I refuse to delete because Git history is archaeology
+
+Not everything here represents how I'd write the same thing today — some repos have been around for quite a while.
+
+That's GitHub, I guess.
 
 ---
+
+## 📊 Repository overview
 
 <img
-  src="https://github-readme-stats-gold-iota-66.vercel.app/api/repos?theme=tokyonight&hide_border=true"
-  alt="Repository Overview"
+src="https://github-readme-stats-gold-iota-66.vercel.app/api/repos?theme=tokyonight&hide_border=true"
+alt="Repository Overview"
 />
+
+---
+
+### 📫 Contact
+
+If you're working on something involving **Python, C++, backend systems, automation, networking, or reverse engineering**, feel free to reach out.
+
+I'm especially interested in engineering problems where normal application development and low-level research overlap.
